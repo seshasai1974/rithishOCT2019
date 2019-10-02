@@ -62,6 +62,7 @@ class Product {
 	private int id;
 	private String name;
 	private String description;
+	private String abc;
 
 	public Product(int id, String name, String description) {
 		super();
